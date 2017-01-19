@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Life</string>
+    <string name="action_settings">設定</string>
+    <string name="string_account">記帳</string>
+    <string name="string_todo">待辦</string>
+    <string name="string_budget">預算</string>
+    <string name="string_eating">食</string>
+    <string name="string_clothing">衣</string>
+    <string name="string_housing">住</string>
+    <string name="string_traffic">行</string>
+    <string name="string_education">育</string>
+    <string name="string_entertainment">樂</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>

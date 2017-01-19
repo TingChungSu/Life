@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Life</string>
+    <string name="action_settings">Settings</string>
+    <string name="string_account">Accounting</string>
+    <string name="string_todo">ToDo</string>
+    <string name="string_budget">Budget</string>
+    <string name="string_eating">Eating</string>
+    <string name="string_clothing">Clothing</string>
+    <string name="string_housing">Housing</string>
+    <string name="string_traffic">Traffic</string>
+    <string name="string_education">Education</string>
+    <string name="string_entertainment">Entertainment</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+</resources>
